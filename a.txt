@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 update1
 update2
+=======
+update1
+update2
+>>>>>>> a01
